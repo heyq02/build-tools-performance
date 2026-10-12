@@ -49,6 +49,9 @@ jobs:
         with:
           node-version: 24.21.0
 
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
       - name: Install Global Dependencies
         run: |
           npm i cross-env -g
