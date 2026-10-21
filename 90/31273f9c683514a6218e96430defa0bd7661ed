@@ -1,0 +1,19 @@
+cases/react-1k/bun-build.mjs
+  s_1c9d93f300bc2c::t_a710d50a3b79f0 14-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "9031273f9c683514a6218e96430defa0bd7661ed",
+  "prompts": {},
+  "sessions": {
+    "s_1c9d93f300bc2c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "565a8d7c-1a34-4a32-9b92-dfa3d05b049f",
+        "model": "unknown"
+      },
+      "human_author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
