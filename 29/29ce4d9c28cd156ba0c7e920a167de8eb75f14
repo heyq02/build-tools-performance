@@ -1,0 +1,25 @@
+scripts/build-rspack-cases.ts
+  s_28a587c5d6c12b::t_0a2c620c030ff7 12,14,18,27,33-39,41,48,52,54-55,65
+rstack.config.ts
+  s_28a587c5d6c12b::t_2c391b9cc7c1fa 8
+scripts/memory.test.ts
+  s_28a587c5d6c12b::t_879e3e31753a33 8-16,30-31,33-65
+scripts/benchmark.ts
+  s_28a587c5d6c12b::t_0a2c620c030ff7 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "2929ce4d9c28cd156ba0c7e920a167de8eb75f14",
+  "prompts": {},
+  "sessions": {
+    "s_28a587c5d6c12b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9b45ecec-123f-4c02-a2ba-d117068b1040",
+        "model": "grok-4.6"
+      },
+      "human_author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
